@@ -11,10 +11,7 @@ Oracle Enterprise Manager Cloud Control 13c Release 2 Plug-in Update 1 (13.2.0.0
 
 ## ダウンロード
 
-ソフトウェアを以下からダウンロードし、`.env`でMEDIAに指定したディレクトリに配置。
-
-Oracle Enterprise Manager Downloads
-http://www.oracle.com/technetwork/oem/enterprise-manager/downloads/index.html
+[Oracle Enterprise Manager Downloads](http://www.oracle.com/technetwork/oem/enterprise-manager/downloads/index.html)から下記のソフトウェアをダウンロードし、`.env`でMEDIAに指定したディレクトリに配置。
 
 * Oracle Enterprise Manager Cloud Control 13c Release 2 Plug-in Update 1 (13.2.0.0) for Linux x86-64
     + em13200p1_linux64.bin
